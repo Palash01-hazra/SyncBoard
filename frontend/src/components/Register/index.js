@@ -15,7 +15,7 @@ const Register = () => {
       return;
     }
     try {
-      const response = await fetch('http://localhost:5000/api/users/register', {
+      const response = await fetch('https://syncboard-backend-7zx2.onrender.com/api/users/register', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
