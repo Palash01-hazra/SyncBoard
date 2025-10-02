@@ -1,7 +1,7 @@
 
 # SyncBoard
 
-A Real-Time Collaborative Drawing Board which help people to draw somthing and taking notes on it and also the notes can be downloaded into png format. Also this board can be used for collaboration with their friends or teammates to make important notes and also for learning purpose .
+A Real-Time Collaborative Drawing Board which help people to draw something and taking notes on it and also the notes can be downloaded into png format. Also this board can be used for collaboration with their friends or teammates to make important notes and also for learning purpose .
 
 
 ## Some of the key features of the website include:
