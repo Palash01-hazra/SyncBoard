@@ -35,7 +35,7 @@ A Real-Time Collaborative Drawing Board which help people to draw somthing and t
 <img width="1703" height="816" alt="Screenshot 2025-10-03 011926" src="https://github.com/user-attachments/assets/207fcc55-413e-4444-9728-d5a54f80adf8" />
 <img width="1894" height="857" alt="Screenshot 2025-10-03 013454" src="https://github.com/user-attachments/assets/4c8dd7bc-9cb1-416c-99ad-35f74f4cc52a" />
 
-### [Website Link](https://letsnormalizeit.netlify.app/)
+### [Website Link](https://syncboard-frontend.onrender.com/)
 
 ## Creator of the Website:
 [Palash Hazra](https://www.linkedin.com/in/palash-hazra-7233aa253/)
